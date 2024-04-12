@@ -1,0 +1,21 @@
+nav {
+    display: flex;  /* Arrange navigation items horizontally */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold; /* Bold text for navigation links */
+  }
+  
+  nav a:hover {
+    color: #999; /* Lighter text on hover */
+  }
+  
