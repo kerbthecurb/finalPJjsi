@@ -41,6 +41,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   /*-- start editing from here --*/
   a {
     text-decoration: none;
+    
   }
   
   .txt-rt {
@@ -109,12 +110,12 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   
   /*-- end reset --*/
   body {
-    background: #76b852;
+    background: #ff9500;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to top, #76b852, #8DC26F);
-    background: -moz-linear-gradient(to top, #76b852, #8DC26F);
-    background: -o-linear-gradient(to top, #76b852, #8DC26F);
-    background: linear-gradient(to top, #76b852, #8DC26F);
+    background: -webkit-linear-gradient(to top, #ff9500, #ffb54e);
+    background: -moz-linear-gradient(to top, #ff9500, #ffb54e);
+    background: -o-linear-gradient(to top, #ff9500, #ffb54e);
+    background: linear-gradient(to top, #ff9500, #ffb54e);
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Roboto', sans-serif;
